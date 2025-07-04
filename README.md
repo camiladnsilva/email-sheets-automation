@@ -20,7 +20,7 @@ Este script envia um e-mail automático caso o saldo registrado em uma planilha 
 
 ## ✉️ Exemplo de e-mail enviado
 
-Assunto: ⚠️ Alerta: Saldo Negativo ⚠️
-Corpo: O saldo atual está negativo: R$ -200
-Data e hora do envio: 04/07/2025 10:15
+- Assunto: ⚠️ Alerta: Saldo Negativo ⚠️
+- Corpo: O saldo atual está negativo: R$ -200
+- Data e hora do envio: 04/07/2025 10:15
 
