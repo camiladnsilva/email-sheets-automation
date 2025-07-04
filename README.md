@@ -30,7 +30,7 @@ https://developers.google.com/apps-script/guides/services/quotas
 
 ## 🖼️ Exemplo de e-mail recebido
 
-![Exemplo de E-mail](<p align="center">
+(<p align="center">
   <img src="email-exemplo.png" alt="Exemplo de E-mail" width="600"/>
 </p>
 )
