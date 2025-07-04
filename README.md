@@ -1,7 +1,8 @@
 # email-sheets-automation
+
 Projeto para envio automatizado de e-mails com Google Apps Script
 
-# Alerta de Saldo Negativo com Google Apps Script
+## 📢 Alerta de Saldo Negativo com Google Apps Script
 
 Este script envia um e-mail automático caso o saldo registrado em uma planilha esteja negativo. Ideal para controle simples de fluxo de caixa pessoal ou de pequenos negócios.
 
@@ -18,9 +19,19 @@ Este script envia um e-mail automático caso o saldo registrado em uma planilha 
 3. Copie o código para um projeto do [Google Apps Script](https://script.google.com)
 4. Execute a função `enviarAlertaEmail()` manualmente ou crie um gatilho automático
 
-## ✉️ Exemplo de e-mail enviado
+## 📎 Requisitos
 
-- Assunto: ⚠️ Alerta: Saldo Negativo ⚠️
-- Corpo: O saldo atual está negativo: R$ -200
-- Data e hora do envio: 04/07/2025 10:15
+- Conta Google com acesso ao Google Sheets e Gmail
+- Permitir as autorizações de envio de e-mail no primeiro uso do script
+- O envio de e-mails está sujeito aos limites diários do Gmail (ex: 100/dia para contas gratuitas)
 
+📌 Consulte os limites oficiais aqui:  
+https://developers.google.com/apps-script/guides/services/quotas
+
+## 🖼️ Exemplo de e-mail recebido
+
+![Exemplo de E-mail](email-exemplo.png)
+
+---
+
+📝 Licença: MIT
