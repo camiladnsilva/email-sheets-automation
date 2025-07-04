@@ -2,6 +2,13 @@
 
 Projeto para envio automatizado de e-mails com Google Apps Script
 
+## 🗂 Índice
+
+- [📌 Como funciona](#como-funciona)
+- [🚀 Como usar](#como-usar)
+- [📎 Requisitos](#requisitos)
+- [🖼️ Exemplo de e-mail recebido](#exemplo-de-e-mail-recebido)
+
 ## 📢 Alerta de Saldo Negativo com Google Apps Script
 
 Este script envia um e-mail automático caso o saldo registrado em uma planilha esteja negativo. Ideal para controle simples de fluxo de caixa pessoal ou de pequenos negócios.
